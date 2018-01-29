@@ -1,0 +1,10 @@
+galaxy_info:
+  author: Jakub Jarosz
+  description: Ansible role for installing and configuring EPEL repository
+  company: SevenBytes
+  min_ansible_version: 2.2
+  platforms:
+  - name: RedHat
+    versions:
+    - 7.3
+
